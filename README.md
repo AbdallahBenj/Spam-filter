@@ -28,6 +28,6 @@ To try the Spam Filter project:
 
 Or test it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Spam-filter/)
 
 ## Let’s master regex and catch that spam like a pro! 🕵️‍♀️🚫📨
